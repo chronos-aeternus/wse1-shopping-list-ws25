@@ -1,2 +1,4 @@
 apfel
 birne
+bier
+leberkas
