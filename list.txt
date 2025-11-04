@@ -5,3 +5,7 @@ leberkas
 chips
 wurst
 cheese
+tomaten
+gurkerl
+paprika
+salat
